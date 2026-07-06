@@ -4,7 +4,7 @@
     "app_key": "010",
     "config": {
         "app_id": "010",
-        "api_base_url": "https://api.cr7sui.top/",
+        "api_base_url": "https://api.lovemybou.xyz/",
         "maintenance_mode": false,
         "maintenance_message": "App under maintenance. Please try again later.",
         "force_update": false,
@@ -32,7 +32,7 @@
         "copyright_text": "© 2026 Soccery TV. All rights reserved.",
         "disclaimer_text": "Soccery TV does not host or upload any video content. All football streams available in the app are provided by third-party sources publicly available on the internet.\r\n\r\nWe do not control or guarantee the availability, quality, or legality of any streams. All trademarks, logos, and content belong to their respective owners.\r\n\r\nIf you are a rights holder and believe any content violates your rights, please contact us for prompt removal.",
         "privacy_text": "Soccery TV respects your privacy. We do not collect personal information such as your name, email, or phone number.\r\n\r\nThe app may collect limited anonymous data (such as app usage and crash reports) to improve performance and user experience.\r\n\r\nWe may send notifications for match updates, news, or important announcements. You can disable notifications anytime from your device settings.\r\n\r\nSoccery TV does not host any video content. All streams are provided by third-party sources, and all content belongs to their respective owners.\r\n\r\nIf you have any questions or concerns, please contact us.",
-        "api_backup_url": "https://api.lovemybou.xyz/",
+        "api_backup_url": "https://api.cr7sui.top/",
         "apk_download_url": "https://github.com/ayaanahad/stv/releases/download/v3.0.8/release_V3.0.8_code38.apk",
         "external_player_download_url": "https://play.google.com/store/apps/details?id=com.mnetplayer.app",
         "ads_web_url": "https://soccerytv.com/",
