@@ -4,8 +4,8 @@
     "app_key": "000",
     "config": {
         "app_id": "000",
-        "api_base_url": "https://api.cr7sui.top/",
-        "api_backup_url": "https://api.lovemybou.xyz/",
+        "api_base_url": "https://api.lovemybou.xyz/",
+        "api_backup_url": "https://api.cr7sui.top/",
         "maintenance_mode": false,
         "maintenance_message": "App under maintenance. Please try again later.",
         "force_update": false,
