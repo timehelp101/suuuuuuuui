@@ -1,6 +1,6 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-07 17:02:46",
+    "server_time_utc": "2026-07-07 19:32:14",
     "app_key": "001",
     "config": {
         "app_id": 1,
@@ -79,7 +79,7 @@
         "min_supported_version": 49,
         "apk_download_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
         "app_update_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
-        "force_update": true,
-        "update_message": "New version 5.1.1 is available with important fixes. Please update now to continue watching matches."
+        "update_message": "New version 5.1.1 is available with important fixes. Please update now to continue watching matches.",
+        "force_update": false
     }
 }
