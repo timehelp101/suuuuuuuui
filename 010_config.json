@@ -1,16 +1,11 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-07 15:09:54",
+    "server_time_utc": "2026-07-07 17:58:26",
     "app_key": "010",
     "config": {
         "api_base_url": "https://api.cr7sui.top/",
         "maintenance_mode": false,
         "maintenance_message": "App under maintenance. Please try again later.",
-        "force_update": false,
-        "min_supported_version": 40,
-        "latestVersionName": "4.0.0",
-        "app_update_url": "https://soccerytv.com/",
-        "update_message": "New version available with performance improvements.",
         "player_mode": "external",
         "external_player_package": "com.mnetplayer.app",
         "enc_dynamic_part": "E_$",
@@ -33,7 +28,6 @@
         "privacy_text": "Soccery TV respects your privacy. We do not collect personal information such as your name, email, or phone number.\r\n\r\nThe app may collect limited anonymous data (such as app usage and crash reports) to improve performance and user experience.\r\n\r\nWe may send notifications for match updates, news, or important announcements. You can disable notifications anytime from your device settings.\r\n\r\nSoccery TV does not host any video content. All streams are provided by third-party sources, and all content belongs to their respective owners.\r\n\r\nIf you have any questions or concerns, please contact us.",
         "app_id": 10,
         "api_backup_url": "https://api.itforeveryone.top/",
-        "apk_download_url": "https://github.com/rawbbz707/suiiiiiii/releases/download/v4.0.0/STV_release_V4.0.0_code40.apk",
         "external_player_download_url": "https://play.google.com/store/apps/details?id=com.mnetplayer.app",
         "ads_web_url": "https://soccerytv.com/",
         "splash_support_url": "https://soccerytv.com/",
@@ -75,6 +69,12 @@
         "blocked_redirect_url": "",
         "secure_hosts": "api.cr7sui.top,api.itforeveryone.top",
         "primary_origin": "api.cr7sui.top",
-        "backup_edge": "api.itforeveryone.top"
+        "backup_edge": "api.itforeveryone.top",
+        "latestVersionName": "4.1.1",
+        "min_supported_version": 42,
+        "apk_download_url": "https://github.com/rawbbz707/suiiiiiii/releases/download/v4.1.1/release_V4.1.1_code42.apk",
+        "app_update_url": "https://github.com/rawbbz707/suiiiiiii/releases/download/v4.1.1/release_V4.1.1_code42.apk",
+        "force_update": true,
+        "update_message": "New Soccery v4.1.1 is available with important fixes. Please update now to continue watching matches."
     }
 }
