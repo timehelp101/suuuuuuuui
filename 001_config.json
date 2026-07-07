@@ -1,6 +1,6 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-07 16:08:43",
+    "server_time_utc": "2026-07-07 16:23:10",
     "app_key": "001",
     "config": {
         "app_id": 1,
@@ -8,7 +8,6 @@
         "api_backup_url": "https://api.itforeveryone.top/",
         "maintenance_mode": false,
         "maintenance_message": "App under maintenance. Please try again later.",
-        "force_update": false,
         "player_mode": "external",
         "external_player_required": false,
         "external_player_package": "com.mnetplayer.app",
@@ -31,7 +30,6 @@
         "copyright_text": "All content provided in this application is for informational and entertainment purposes only. We do not host, upload, or control any video streams displayed in the app.  All trademarks, logos, and media content belong to their respective owners. If you are a copyright owner and believe any content infringes your rights, please contact us for immediate removal.",
         "disclaimer_text": "This app is intended for informational and entertainment purposes only. We do not host, upload, or own any video content shown in the app.\r\n\r\nAll streams are sourced from publicly available third-party websites. We do not control or guarantee the availability, quality, or legality of any content.\r\n\r\nAll trademarks, logos, and media belong to their respective owners. If you believe any content violates your rights, please contact us and we will take appropriate action.",
         "privacy_text": "Your privacy matters to us. We do not collect personal information. The app uses basic analytics to improve performance. All content belongs to respective owners.",
-        "update_message": "New version available with performance improvements.",
         "ads_web_interval_unit": "hours",
         "splash_support_interval_unit": "hours",
         "ads_web_interval_time": 1,
@@ -79,7 +77,9 @@
         "backup_edge": "api.itforeveryone.top",
         "apk_download_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
         "latestVersionName": "5.0.6",
-        "min_supported_version": 46,
-        "app_update_url": "https://kriratv.com/"
+        "min_supported_version": 1,
+        "force_update": false,
+        "app_update_url": "https://kriratv.com/",
+        "update_message": "Youre on the latest version"
     }
 }
