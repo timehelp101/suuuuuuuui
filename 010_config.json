@@ -1,6 +1,6 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-07 18:01:31",
+    "server_time_utc": "2026-07-07 19:32:27",
     "app_key": "010",
     "config": {
         "api_base_url": "https://api.cr7sui.top/",
@@ -74,7 +74,7 @@
         "min_supported_version": 42,
         "apk_download_url": "https://github.com/rawbbz707/suiiiiiii/releases/download/v4.1.1/release_V4.1.1_code42.apk",
         "app_update_url": "https://github.com/rawbbz707/suiiiiiii/releases/download/v4.1.1/release_V4.1.1_code42.apk",
-        "force_update": true,
-        "update_message": "New Soccery v4.1.1 is available with important fixes. Please update now to continue watching matches."
+        "update_message": "New Soccery v4.1.1 is available with important fixes. Please update now to continue watching matches.",
+        "force_update": false
     }
 }
