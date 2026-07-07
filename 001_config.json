@@ -1,6 +1,6 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-07 16:24:15",
+    "server_time_utc": "2026-07-07 17:02:46",
     "app_key": "001",
     "config": {
         "app_id": 1,
@@ -75,11 +75,11 @@
         "secure_hosts": "api.cr7sui.top,api.itforeveryone.top",
         "primary_origin": "api.cr7sui.top",
         "backup_edge": "api.itforeveryone.top",
+        "latestVersionName": "5.1.1",
+        "min_supported_version": 49,
         "apk_download_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
-        "update_message": "Youre on the latest version",
-        "latestVersionName": "5.0.6",
-        "min_supported_version": 46,
-        "force_update": false,
-        "app_update_url": "https://kriratv.com/"
+        "app_update_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
+        "force_update": true,
+        "update_message": "New version 5.1.1 is available with important fixes. Please update now to continue watching matches."
     }
 }
