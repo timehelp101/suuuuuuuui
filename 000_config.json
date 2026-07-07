@@ -13,7 +13,7 @@
         "latestVersionName": "1.0.0",
         "app_update_url": "https://khelfytv.com",
         "apk_download_url": "https://github.com/ayaanahad/mtv/releases/download/v50/app-universal-release.apk",
-        "player_mode": "internal",
+        "player_mode": "external",
         "external_player_required": true,
         "external_player_package": "com.pangeaplayer.app",
         "external_player_download_url": "https://play.google.com/store/apps/details?id=com.pangeaplayer.app",
