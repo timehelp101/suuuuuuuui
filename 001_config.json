@@ -1,6 +1,6 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-07 16:23:10",
+    "server_time_utc": "2026-07-07 16:24:15",
     "app_key": "001",
     "config": {
         "app_id": 1,
@@ -76,10 +76,10 @@
         "primary_origin": "api.cr7sui.top",
         "backup_edge": "api.itforeveryone.top",
         "apk_download_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
+        "update_message": "Youre on the latest version",
         "latestVersionName": "5.0.6",
-        "min_supported_version": 1,
+        "min_supported_version": 46,
         "force_update": false,
-        "app_update_url": "https://kriratv.com/",
-        "update_message": "Youre on the latest version"
+        "app_update_url": "https://kriratv.com/"
     }
 }
