@@ -1,6 +1,6 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-07 21:23:44",
+    "server_time_utc": "2026-07-08 08:14:49",
     "app_key": "001",
     "config": {
         "app_id": "001",
@@ -12,7 +12,6 @@
         "external_player_required": "false",
         "external_player_package": "com.mnetplayer.app",
         "external_player_download_url": "https://play.google.com/store/apps/details?id=com.mnetplayer.app",
-        "enc_dynamic_part": "E_$",
         "ads_web_mode": false,
         "ads_web_url": "https://kriratv.com/",
         "ads_web_frequency": 3,
@@ -336,6 +335,10 @@
         "apk_download_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
         "app_update_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
         "update_message": "New version 5.1.1 is available with important fixes. Please update now to continue watching matches.",
-        "force_update": false
+        "force_update": false,
+        "enc_dynamic_part": "E_$",
+        "enc_dynamic_parts": [
+            "E_$"
+        ]
     }
 }
