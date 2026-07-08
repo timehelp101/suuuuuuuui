@@ -1,6 +1,6 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-07 21:23:47",
+    "server_time_utc": "2026-07-08 08:15:03",
     "app_key": "010",
     "config": {
         "api_base_url": "https://api.cr7sui.top/",
@@ -9,6 +9,9 @@
         "player_mode": "external",
         "external_player_package": "com.mnetplayer.app",
         "enc_dynamic_part": "E_$",
+        "enc_dynamic_parts": [
+            "E_$"
+        ],
         "ads_web_mode": false,
         "ads_web_frequency": 3,
         "ads_web_interval_time": 0,
