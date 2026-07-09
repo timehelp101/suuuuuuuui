@@ -1,17 +1,19 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-09 21:29:46",
+    "server_time_utc": "2026-07-09 23:46:35",
     "app_key": "001",
     "config": {
         "app_id": "001",
-        "api_base_url": "https://api.cr7sui.top/",
-        "api_backup_url": "",
+        "api_base_url": "https://socmyenjoy.com/",
+        "api_backup_url": "https://soccdn.lol/",
         "secure_hosts": [
             "api.cr7sui.top",
             "api.itforeveryone.top",
             "love_my_bou",
             "cdn.jsdelivr.net",
-            "raw.githubusercontent.com"
+            "raw.githubusercontent.com",
+            "socmyenjoy.com",
+            "soccdn.lol"
         ],
         "primary_origin": "api.cr7sui.top",
         "backup_edge": "api.itforeveryone.top",
