@@ -1,22 +1,17 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-09 23:46:35",
+    "server_time_utc": "2026-07-10 00:19:09",
     "app_key": "001",
     "config": {
         "app_id": "001",
-        "api_base_url": "https://socmyenjoy.com/",
-        "api_backup_url": "https://soccdn.lol/",
+        "api_base_url": "https://soccdn.lol/",
+        "api_backup_url": "https://socmyenjoy.com/",
         "secure_hosts": [
-            "api.cr7sui.top",
-            "api.itforeveryone.top",
-            "love_my_bou",
-            "cdn.jsdelivr.net",
-            "raw.githubusercontent.com",
-            "socmyenjoy.com",
-            "soccdn.lol"
+            "soccdn.lol",
+            "socmyenjoy.com"
         ],
-        "primary_origin": "api.cr7sui.top",
-        "backup_edge": "api.itforeveryone.top",
+        "primary_origin": "soccdn.lol",
+        "backup_edge": "socmyenjoy.com",
         "enc_dynamic_part": "E_$",
         "enc_dynamic_parts": [
             "E_$"
