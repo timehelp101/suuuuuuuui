@@ -1,1 +1,1 @@
-{"status":true,"updated_at_utc":"2026-08-01 09:28:03","server_time":1785576483,"odds":{}}
+{"status":true,"updated_at_utc":"2026-08-01 09:34:03","server_time":1785576843,"odds":{"1604724":{"home_team_id":168,"away_team_id":1621,"updated":33,"status":"First Half","match_winner":null,"next_goal":null},"1585007":{"home_team_id":539,"away_team_id":722,"updated":70,"status":"Second Half","match_winner":{"home":"1.055","draw":"9","away":"101"},"next_goal":null}}}
