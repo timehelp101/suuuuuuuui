@@ -1,0 +1,13 @@
+{
+    "status": true,
+    "server_time_utc": "2026-09-28 09:57:02",
+    "app_key": "001",
+    "config": {
+        "force_update": false,
+        "min_supported_version": 78,
+        "latestVersionName": "6.3.5",
+        "apk_download_url": "https://github.com/ayaannm/messisui/releases/download/ktv/app-release-v6.3.5.apk",
+        "app_update_url": "https://kriratv.com/download/",
+        "update_message": "A new version of Krira TV is required. Please update to continue watching."
+    }
+}
