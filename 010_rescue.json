@@ -1,8 +1,11 @@
 {
     "status": true,
-    "server_time_utc": "2026-09-28 09:57:09",
+    "server_time_utc": "2026-09-28 11:16:33",
     "app_key": "010",
     "config": {
+        "api_base_url": "https://socmy.top/",
+        "api_backup_url": "https://81239e.xmascountdown-official.workers.dev/",
+        "data_repo": "ayanjuwel/love_my_bou",
         "force_update": false,
         "min_supported_version": 73,
         "latestVersionName": "5.4.0",
