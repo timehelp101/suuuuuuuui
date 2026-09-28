@@ -1,8 +1,11 @@
 {
     "status": true,
-    "server_time_utc": "2026-09-28 09:57:02",
+    "server_time_utc": "2026-09-28 11:16:17",
     "app_key": "001",
     "config": {
+        "api_base_url": "https://messiout.top/",
+        "api_backup_url": "https://api-messiout.kriraburner-1.workers.dev/",
+        "data_repo": "ayanjuwel/love_my_bou",
         "force_update": false,
         "min_supported_version": 78,
         "latestVersionName": "6.3.5",
