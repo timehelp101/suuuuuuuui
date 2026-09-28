@@ -1,0 +1,13 @@
+{
+    "status": true,
+    "server_time_utc": "2026-09-28 09:57:09",
+    "app_key": "010",
+    "config": {
+        "force_update": false,
+        "min_supported_version": 73,
+        "latestVersionName": "5.4.0",
+        "apk_download_url": "https://github.com/ayaannm/messisui/releases/download/stv/release_V5.4.0_code73.apk",
+        "app_update_url": "https://soccerytv.com/download/",
+        "update_message": "A new version of Soccery TV is required. Please update to continue watching."
+    }
+}
