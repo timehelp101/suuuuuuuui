@@ -1,0 +1,23 @@
+{
+    "status": true,
+    "server_time_utc": "2026-09-28 12:03:02",
+    "app_key": "000",
+    "config": {
+        "api_base_url": "https://khlmy.top/",
+        "api_backup_url": "https://b408a1.xmascountdown-official.workers.dev/",
+        "data_repo": "ayanjuwel/love_my_bou",
+        "telegram_url": "https://t.me/khelfytv",
+        "contact_email": "contact@techinterval.com",
+        "privacy_text": "Privacy Policy Text",
+        "copyright_text": "Copyright Text",
+        "disclaimer_text": "Disclaimer Text",
+        "live_cricket_url": "https://www.cricbuzz.com/",
+        "live_football_url": "https://www.fotmob.com/",
+        "force_update": false,
+        "min_supported_version": 40,
+        "latestVersionName": "2.3.22",
+        "apk_download_url": "https://github.com/ayaannm/messisui/releases/download/khel/2.3.22_code40_universal.apk",
+        "app_update_url": "https://khelfytv.com",
+        "update_message": "A new version of KhelfyTV is required. Please update to continue watching."
+    }
+}
