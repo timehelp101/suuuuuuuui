@@ -1,0 +1,31 @@
+{
+    "schema": 1,
+    "type": "futofy_config",
+    "app": "011",
+    "version": 6,
+    "generated_at": "2026-11-18T20:31:01+00:00",
+    "config": {
+        "webview_url": "https://www.fanvue.com/",
+        "user_agent": "",
+        "js_enabled": true,
+        "splash_support_enabled": true,
+        "splash_support_title": "Support Us",
+        "splash_support_message": "Tap continue to support the app and keep it free.",
+        "splash_support_cta": "Continue",
+        "splash_support_url": "https://onepyrincehyarey.org?0RgUG=1233531",
+        "splash_support_seconds": 10,
+        "splash_support_interval_hours": 1,
+        "splash_support_interval_unit": "hours",
+        "latest_version_code": 1,
+        "latest_version_name": "1.0",
+        "force_update": false,
+        "update_message": "A new version is available. Please update to continue.",
+        "apk_url": "https://github.com/ofapp-netizen/apk-files/releases/download/fv/FV.apk",
+        "notice_enabled": false,
+        "notice_text": "",
+        "notice_url": "",
+        "maintenance": false,
+        "maintenance_message": "We will be back shortly.",
+        "live_match_enabled": false
+    }
+}
